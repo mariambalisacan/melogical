@@ -207,7 +207,7 @@ White       #fff
  }
 
  .projects-section{
- 	padding:5rem
+ 	padding:5rem 0;
  }
 
  .projects-section .featured-text{
